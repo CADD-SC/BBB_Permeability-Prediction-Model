@@ -23,7 +23,7 @@ Welcome to our repository, here we provide machine learning model to efficiently
 
 Use Jupyter notebook to execute the code, download all the provided input files and models BBB.pkl model file before execution. 
 
-Prepare your input file containing SMILES in .csv format and name the column as “SMILES”
+Prepare your input file containing SMILES in .csv format and name the column as “SMILES”.
 
 Make sure the paths of model, .pkl file and input files before executing the code file named as BBB_Prediction_model.ipynb.
 
